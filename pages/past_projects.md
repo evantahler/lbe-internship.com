@@ -30,9 +30,9 @@ This is the first year for **The Endowed Internship for Location-Based Creative 
 <p>Past ETC projects with Give Kids the World include:</p>
 
 <ul>
-  <li><a hrfe="http://www.etc.cmu.edu/projects/kissimmee-interactive/">Kissimee Interactive</a></li>
-  <li><a hrfe="http://etc.cmu.edu/projects/sweetdreams/">Sweet Dreams</a></li>
-  <li><a hrfe="http://www.etc.cmu.edu/projects/stardust/">Stardust</a></li>
+  <li><a href="http://www.etc.cmu.edu/projects/kissimmee-interactive/">Kissimee Interactive</a></li>
+  <li><a href="http://etc.cmu.edu/projects/sweetdreams/">Sweet Dreams</a></li>
+  <li><a href="http://www.etc.cmu.edu/projects/stardust/">Stardust</a></li>
 </ul>
 
 <a href="http://www.carnegiemellontoday.com/article.asp?aid=1378">Carnegie Mellon Today</a> also has a good article on the ETC's history with Give Kids the World.
