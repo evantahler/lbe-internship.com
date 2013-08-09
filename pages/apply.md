@@ -5,7 +5,7 @@ title: Apply
 
 # Apply
 
-Are you a current student at [Carnegie Mellon's Entertainment Technology Center](http://etc.cmu.edu/) who is looking to apply for this endowed internship?  We are happy to see you here!
+Are you a current student at [Carnegie Mellon's Entertainment Technology Center](http://etc.cmu.edu/) who is looking to apply for this internship?  We are happy to see you here!
 
 We are currently working on our application and judging process, and we will let you know once we have determined a fair way to process the applications.  Please register your interest via the link below.
 

@@ -5,7 +5,7 @@ title: "Past Projects & Example Clients"
 
 # Past Projects & Example Clients
 
-This is the first year for **The Endowed Internship for Location-Based Creative Good**, so there are no past projects yet.  Stay tuned!
+This is the first year for **The ETC Internship for Location-Based Creative Good**, so there are no past projects yet.  Stay tuned!
 
 ## Example Clients
 
@@ -13,7 +13,7 @@ This is the first year for **The Endowed Internship for Location-Based Creative 
 
 <div class="row">
 <div class="span4">
-  <img src="http://www.disunplugged.com/wp-content/uploads/2009/05/gktw_horizontal.jpg" />
+  <img src="/images/gktw_horizontal.jpg" />
 </div>
 <div class="span8">
 <p>The ETC has done numerous projects with Give Kids the world over the past decade.  Though our work, we have created thousands of memories for terminally ill children and their families.</p>
