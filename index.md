@@ -20,17 +20,17 @@ title: Home
   <div class="span6"><a href="http://cmu.edu"><img src="/images/cmu-logo.jpeg" /></a></div>
 </div>
 
-The 2013-2014 School Year is the first year of this endowment.  This year, we are tying to raise only $15,000.  This amount will be given to the winning student so that they may complete their project.  After the success of our first year, we will be attempting to raise more funds in order to create a sustainable program.  
+Many non-profit organizations - museums, libraries, zoos, arts and human service organizations - have a primary mission to enrich lives and communities.  Many of these organizations find it challenging to keep up with the fast-paced and ever-changing education and entertainment technology trends that help fulfill their mission. The skills and expertise that students acquire during their time at the ETC could be invaluable to these organizations if their budgets allowed, and students would love the chance to work with non-profits if they could afford it.  
+ 
+The ETC is launching a new effort called the Internship for Location-Based Creative Good.  The goal of The ETC Internship for Location-Based Creative Good is to allow these students to spend a summer working with the organization of their choice to complete a technology-focused education or entertainment project.
+ 
+We call on friends and alumni of the ETC to contribute to this new fund and support students and the non-profit organizations they want to help.
+ 
+The goal is to raise $15,000.  All funds contributed will support the winning student or students so that they may complete a summer internship project.
 
----
+### [Make a donation](/pages/donate.html)
 
-There are many establishments with the mission is the enrichment of society.  More often than not, these museums, libraries, and other civic institutions are non-profit, and cannot afford to keep up with modern educational and entertainment trends.  ETC students have wished to spend time working with these institutions, but have been unable to bear the financial burden of doing so.
-
-The goal of **The ETC Internship for Location-Based Creative Good** is to allow these students to spend a summer working with the institution of their choice creating a difference.  Long-term, the goal is to raise the funds necessary to create an endowment which can afford to fund one student each summer to make this journey.
-
-### [Learn more about donation](/pages/donate.html)
-
-### [Learn more about applying for a grant](/pages/apply.html)
+### [ETC Students: learn more about applying for a grant](/pages/apply.html)
 
 Image Credits: [stars](http://www.memorymakermom.com/2011/09/18/disney-movie-lines-cinema-sunday-star-light-star-bright-first-star-i-see-tonight/)
 - [pillow tree](http://www.kissesforcami.com/2011/03/day-4-day-in-life-gktw.html)
