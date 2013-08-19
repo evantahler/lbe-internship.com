@@ -5,7 +5,7 @@ title: "Past Projects & Example Clients"
 
 # Past Projects & Example Clients
 
-This is the first year for **The ETC Internship for Location-Based Creative Good**, so there are no past projects yet.  Stay tuned!
+This is the first year for **The ETC Creative Good Fund**, so there are no past projects yet.  Stay tuned!
 
 ## Example Clients
 
