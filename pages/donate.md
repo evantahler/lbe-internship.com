@@ -5,7 +5,7 @@ title: Donate
 
 # Donate
 
-#### For the 2013-2014 School Year, we are trying to raise **$15,000**.  
+#### We are trying to raise **$65,000**.  
 #### We are currently at **0%** of our goal.
 
 All funds contributed will support the winning student or students so that they may complete a summer internship project.  Donations received by March 31, 2014 will be given to the winning student or students. 

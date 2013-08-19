@@ -26,7 +26,7 @@ The ETC is launching a new effort called the ETC Creative Good Fund.  The goal o
  
 We call on friends and alumni of the ETC to contribute to this new fund and support students and the non-profit organizations they want to help.
  
-The goal is to raise $15,000.  All funds contributed will support the winning student or students so that they may complete a summer internship project.
+The goal is to raise $65,000.  All funds contributed will support the winning student or students so that they may complete a summer internship project.  We will use these funds to create an endowment to anble this fund to grant $15,000 to an ETC student each year.
 
 ### [Make a donation](/pages/donate.html)
 
