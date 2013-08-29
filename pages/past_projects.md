@@ -30,9 +30,12 @@ This is the first year for **The ETC Creative Good Fund**, so there are no past 
 <p>Past ETC projects with Give Kids the World include:</p>
 
 <ul>
+  <li><a href="hhttp://www.etc.cmu.edu/projects/gktw">This Big Surprise</a></li>
+  <li><a href="http://etc.cmu.edu/projects/goldstars/">Gold Stars</a></li>
   <li><a href="http://www.etc.cmu.edu/projects/kissimmee-interactive/">Kissimee Interactive</a></li>
   <li><a href="http://etc.cmu.edu/projects/sweetdreams/">Sweet Dreams</a></li>
   <li><a href="http://www.etc.cmu.edu/projects/stardust/">Stardust</a></li>
+  <li><a href="http://www.etc.cmu.edu/projects/starscape/">StarScape</a></li>
 </ul>
 
 <a href="http://www.carnegiemellontoday.com/article.asp?aid=1378">Carnegie Mellon Today</a> also has a good article on the ETC's history with Give Kids the World.

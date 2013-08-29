@@ -1,4 +1,5 @@
-# etc-lbe-internship
+# The ETC Creative Good Fund.
+### https://github.com/evantahler/lbe-internship.com
 
 ## How do I build the site?
 

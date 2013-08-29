@@ -10,6 +10,11 @@ title: Home
   <div class="span6"><img src="/images/gktw-tree.jpg" /></div>
   <div class="span6"><img src="/images/gktw-stars.jpg" /></div>
 </div>
+<br />
+<div class="row">
+  <div class="span6"><img src="/images/gktw-castle.jpg" /></div>
+  <div class="span6"><img src="/images/gktw-star-fairy.jpg" /></div>
+</div>
 
 ---
 
@@ -28,9 +33,14 @@ We call on friends and alumni of the ETC to contribute to this new fund and supp
  
 The goal is to raise $65,000.  All funds contributed will support the winning student or students so that they may complete a summer internship project.  We will use these funds to create an endowment to anble this fund to grant $15,000 to an ETC student each year.
 
-### [Make a donation](/pages/donate.html)
+<div align="center">
+  <div class="btn-group">
+    <button onclick="window.location='/pages/donate.html'" class="btn-primary btn-large">Donate Here</button>
+    <br />
+    <br />
+    <button onclick="window.location='/pages/apply.html'" class="btn-info btn-large">learn more about applying for a grant</button>
+  </div>
+  <br><br>
+</div>
 
-### [ETC Students: learn more about applying for a grant](/pages/apply.html)
-
-Image Credits: [stars](http://www.memorymakermom.com/2011/09/18/disney-movie-lines-cinema-sunday-star-light-star-bright-first-star-i-see-tonight/)
-- [pillow tree](http://www.kissesforcami.com/2011/03/day-4-day-in-life-gktw.html)
+Image Credits: [stars](http://www.memorymakermom.com/2011/09/18/disney-movie-lines-cinema-sunday-star-light-star-bright-first-star-i-see-tonight/) - [pillow tree](http://www.kissesforcami.com/2011/03/day-4-day-in-life-gktw.html) - [castle](http://www.etc.cmu.edu/projects/gktw) - [star fairy](http://etc.cmu.edu/projects/goldstars)
