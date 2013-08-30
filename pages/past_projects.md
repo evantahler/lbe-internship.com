@@ -16,7 +16,7 @@ This is the first year for **The ETC Creative Good Fund**, so there are no past 
   <img src="/images/gktw_horizontal.jpg" />
 </div>
 <div class="span8">
-<p>The ETC has done numerous projects with Give Kids the world over the past decade.  Though our work, we have created thousands of memories for terminally ill children and their families.</p>
+<p>The ETC has done numerous projects with Give Kids the world over the past decade.  Through our work, we have created thousands of memories for children with life threatening illnesses and their families.</p>
 
 <p>A Project with Give Kids the world might focus on:</p>
 

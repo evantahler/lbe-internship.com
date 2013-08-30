@@ -5,7 +5,7 @@ title: Apply
 
 # Apply
 
-Applications for this internship are only open to current students of [Carnegie Mellon's Entertainment Technology Center](http://etc.cmu.edu/) first and second year masters students may apply.  We will offer one grant of $15,000 each year.
+Applications for this internship are only open to current students of [Carnegie Mellon's Entertainment Technology Center](http://etc.cmu.edu/) first and second year masters students may apply.  We will offer one (or more) grant of $15,000 each year.
 
 # Yearly Timeline
 * Fall Semester
@@ -13,7 +13,7 @@ Applications for this internship are only open to current students of [Carnegie 
   * Previous winner(s) present and publish their project and white-paper 
   * Previous winner(s) update this website with an archive of their work.
 * Spring Semester
-  * Students select a client to work with and work with their client to determine the project they wish to work on
+  * Students propose a client to work with and develop a propsal with that client
   * Applications are due to Drew Davidson by January 31st
   * The committee will choose a winner(s) and notify them by the end of the month (February 28th)
   * On May first, the winner(s) will receive their 1-time grant of $15,000 from Carnegie Mellon
