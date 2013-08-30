@@ -25,9 +25,14 @@ On the following page, please be sure to add the comment "ETC Internship" so we 
   <div class="btn-group">
     <button onclick="window.location='https://securelb.imodules.com/s/1410/giving/form.aspx?sid=1410&amp;gid=1&amp;pgid=382&amp;cid=990&amp;appealcode=A1640'" class="btn-primary btn-large">Donate Here</button>
   </div>
+
+  <br />
+  <br />
+
+  <p>Please share this protect with your friends, family, and co-workers.</p>
 </div>
 
-Please share this protect with your friends, family, and co-workers.
+
 
 ---
 

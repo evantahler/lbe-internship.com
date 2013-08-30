@@ -7,7 +7,7 @@ title: Donate
 
 On this page we list the donors who have made this project possible. 
 
-### Gold Tier (a donation larger than $10,000)
+### Gold Tier (a donation larger than $5,000)
 
 <table width="100%" border="1">
   <thead>
@@ -18,7 +18,7 @@ On this page we list the donors who have made this project possible.
   <tbody></tbody>
 </table>
 
-### Silver Tier (a donation larger than $5,000)
+### Silver Tier (a donation larger than $1,000)
 
 <table width="100%" border="1">
   <thead>
@@ -29,7 +29,7 @@ On this page we list the donors who have made this project possible.
   <tbody></tbody>
 </table>
 
-### Bronze Tier (a donation larger than $1,000)
+### Bronze Tier (a donation larger than $500)
 
 <table width="100%" border="1">
   <thead>
