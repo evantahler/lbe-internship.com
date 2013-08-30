@@ -38,7 +38,7 @@ The goal is to raise $65,000.  All funds contributed will support the winning st
     <button onclick="window.location='/pages/donate.html'" class="btn-primary btn-large">Donate Here</button>
     <br />
     <br />
-    <button onclick="window.location='/pages/apply.html'" class="btn-info btn-large">learn more about applying for a grant</button>
+    <button onclick="window.location='/pages/apply.html'" class="btn-info btn-large">learn more about applying</button>
   </div>
   <br><br>
 </div>
