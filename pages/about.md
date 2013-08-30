@@ -8,7 +8,7 @@ title: About
 **The ETC Creative Good Fund** is created and managed by:
 - The faculty of the [Entertainment Technology Center](http://etc.cmu.edu)
 - Alumni of the ETC
-- and the [Carnegie Mellon University](http://www.cmu.edu/ua/)
+- and [Carnegie Mellon University](http://www.cmu.edu/ua/)
 
 This project was launched in 2013
 
@@ -21,7 +21,10 @@ COMING SOON
 ##### Director of the Entertainment Technology Center
 <div class="row">
   <div class="span3"><img src="/images/people/drew.jpg" /></div>
-  <div class="span9">Drew Davidson is a professor, producer and player of interactive media. His background spans academic, industry and professional worlds and he is interested in stories across texts, comics, games and other media. He is the Director of the Entertainment Technology Center at Carnegie Mellon University and the Founding Editor of ETC Press and its Well Played series and journal. Drew helped create the Sandbox Symposium, an ACM SIGGRAPH conference on video games and served on the IGDA Education SIG. He serves on many advisory, editorial and review boards as well as judge and jury panels. He is the lead on several grants with Macarthur and Gates, and has written and edited books, journals, articles and essays on narratives across media, serious games, analyzing gameplay, and cross-media communication. Drew helped create the Sandbox Symposium, an ACM SIGGRAPH conference on video games and served on the IGDA Education SIG. He serves on many advisory, editorial and review boards as well as judge and jury panels. He is the lead on several grants with Macarthur and Gates, and has written and edited books, journals, articles and essays on narratives across media, serious games, analyzing gameplay, and cross-media communication</div>
+  <div class="span9">Drew Davidson is a professor, producer and player of interactive media. His background spans academic, industry and professional worlds and he is interested in stories across texts, comics, games and other media. He is the Director of the Entertainment Technology Center at Carnegie Mellon University and the Founding Editor of ETC Press and its Well Played series and journal. 
+
+  Drew helped create the Sandbox Symposium, an ACM SIGGRAPH conference on video games and served on the IGDA Education SIG. He serves on many advisory, editorial and review boards as well as judge and jury panels. He is the lead on several grants with Macarthur and Gates, and has written and edited books, journals, articles and essays on narratives across media, serious games, analyzing gameplay, and cross-media communication. 
+  </div>
 </div>
 
 ### Brenda Bakker Harger
