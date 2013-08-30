@@ -61,18 +61,19 @@ Required components of the pitch include:
 
 ## Deliverables
 
-- By the September 15th directly following the summer internship, the winning student(s) are expected to deliver a report detailing:
-  - project implementation details
-    - project analysis (were the goals met?)
-    - budget analysis
-    - client response
-  - interaction white-paper
-    - how did guests react to the project once it was installed
-    - what was unique to the location
-    - what was unique about the demographic affected
-  - internship website updates
-    - much like the ETC project pages, winning students are expected to update and maintain this website, including adding their own project to its archives
-- The winning student(s) are also expected to contribute their time to mentoring future winners of this endowment 
+By the September 15th directly following the summer internship, the winning student(s) are expected to deliver a report detailing:
+
+* project implementation details
+  * project analysis (were the goals met?)
+  * budget analysis
+  * client response
+* interaction white-paper
+  * how did guests react to the project once it was installed
+  * what was unique to the location
+  * what was unique about the demographic affected
+* internship website updates
+  * much like the ETC project pages, winning students are expected to update and maintain this website, including adding their own project to its archives
+* The winning student(s) are also expected to contribute their time to mentoring future winners of this endowment 
 
 ## Disclaimers
 
