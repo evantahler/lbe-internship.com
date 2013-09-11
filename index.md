@@ -5,7 +5,7 @@ title: Home
 
 <div class="row">
   <div class="span6"><a href="http://etc.cmu.edu"><img src="/images/etc-logo.png" /></a></div>
-  <div class="span6"><a href="http://cmu.edu"><img src="/images/cmu-logo.jpeg" /></a></div>
+  <div class="span6">&nbsp;</div>
 </div>
 
 #  The ETC Creative Good Fund.
