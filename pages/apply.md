@@ -5,7 +5,7 @@ title: Apply
 
 # Apply
 
-Applications for this internship are only open to current students of [Carnegie Mellon's Entertainment Technology Center](http://etc.cmu.edu/) first and second year masters students may apply.  We will offer one (or more) grant of $15,000 each year.
+Applications for this internship are only open to current students of [Carnegie Mellon's Entertainment Technology Center](http://etc.cmu.edu/) first and second year masters students may apply.  We will offer one (or more) students a grant of $15,000 each year.
 
 # Yearly Timeline
 * Fall Semester
