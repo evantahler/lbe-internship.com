@@ -72,7 +72,8 @@ By the September 15th directly following the summer internship, the winning stud
   * what was unique to the location
   * what was unique about the demographic affected
 * internship website updates
-  * much like the ETC project pages, winning students are expected to update and maintain this website, including adding their own project to its archives
+  * much like the ETC project pages, winning students are expected to update and maintain this website
+  * this includes adding their own project to its archives
 * The winning student(s) are also expected to contribute their time to mentoring future winners of this endowment 
 
 ## Disclaimers
