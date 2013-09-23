@@ -6,7 +6,7 @@ title: Donate
 # Donate
 
 #### We are trying to raise **$50,000**.  
-#### We are currently at **9%** of our goal.
+#### We are currently at **3%** of our goal.
 
 All funds contributed will support the winning student or students so that they may complete a summer internship project.  Donations received by March 31, 2014 will be given to the winning student or students. 
  
