@@ -63,9 +63,3 @@ COMING SOON
 
 ## Alumni Project Advisors
 COMING SOON
-
----
-
-#### [View the list of donors](/pages/donors.html)
-
----
