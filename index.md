@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<br />
+
 <div class="row">
   <div class="span12"><img width="100%" src="/images/header.jpg" /></div>
 </div>
