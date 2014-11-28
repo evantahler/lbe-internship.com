@@ -82,3 +82,5 @@ By the September 15th directly following the summer internship, the winning stud
 - The winner is expect to have no other summer jobs / clients than their pitched project
 - Please keep in mind that this internship is based on donations, and the funds secured for it will be kept in an investment account.  There are potential problems which may arise (including lack of funding) which may prevent a winning student(s) from receiving the promised funds.  
 - While the faculty and alumni involved in this project will be acting as advisors, all logistics and execution are up to the students to preform.  Be sure that you have the financial and legal means to accomplish your objectives. 
+
+---

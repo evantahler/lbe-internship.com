@@ -6,18 +6,39 @@ title: About
 # About
 
 **The ETC Creative Good Fund** is created and managed by:
+
 - The faculty of the [Entertainment Technology Center](http://etc.cmu.edu)
 - Alumni of the ETC
 - and [Carnegie Mellon University](http://www.cmu.edu/ua/)
 
 This project was launched in 2013
 
+--- 
+
 ## Student Recipients
-COMING SOON
+
+### 2014 (Inaguaral)
+
+<div class="row">
+  <div class="span4">
+    <h3><a href="http://www.etc.cmu.edu/blog/author/rhe">Ruokan He</a></h3>
+    <img src="/images/people/Ruokan-He.jpg" />
+  </div>
+  <div class="span4">
+    <h3><a href="http://www.etc.cmu.edu/blog/author/vkotecha">Vivek Kotecha</a></h3>
+    <img src="/images/people/Vivek-Kotecha.jpg" />
+  </div>
+  <div class="span4">
+    <h3><a href="http://www.gktw.org">Give Kids the World Village</a></h3>
+    <img src="/images/pillow_tree_2014.jpg" />
+  </div>
+</div>
+
+---
 
 ## The Internship Steering Committee
 
-### Dr. Drew Davidson
+### [Dr. Drew Davidson](http://www.etc.cmu.edu/blog/author/drewdavidson/)
 ##### Director of the Entertainment Technology Center
 <div class="row">
   <div class="span3"><img src="/images/people/drew.jpg" /></div>
@@ -27,14 +48,14 @@ COMING SOON
   </div>
 </div>
 
-### Brenda Bakker Harger
+### [Brenda Bakker Harger](http://www.etc.cmu.edu/blog/author/bharger/)
 ##### Associate Teaching Professor, Entertainment Technology Center
 <div class="row">
   <div class="span3"><img src="/images/people/brenda.jpg" /></div>
   <div class="span9">Brenda Bakker Harger is a theatre director (MFA Carnegie Mellon University), improviser, and professor of Entertainment technology at Carnegie Mellon University's Entertainment Technology Center where she teaches improvisational acting and leads diverse interdisciplinary projects. As an improviser, Brenda has performed with Pittsburgh Theatre sports and SAK Theatre, and has led improv workshops nationally and internationally from theatre improvisers to executive leadership training (Carnegie Bosch Institute) to video game companies. Bakker Harger is also director of a unique award winning theatre company at Carnegie Mellon, which uses live interactive theatre to address controversial issues in the workplace and classroom. She has produced an exploratory DVD-ROM for interactive theatre, and is currently pursuing her interest in further exploring her theory and skills in directing and improvisation with technology, both in gaming and theatre. Recent projects include: making a demo/prototype of a game based on the film Night of the Living Dead (with George Romero); creating a toy/exhibit featuring virtual representations of The Pittsburgh Children's Museum's Puppet collection; and Interactive robots - creating a robot which had distinct character and was able to convey emotion and intention. In theatre, Harger has directed and developed plays as technologically based Interactive experiences, one which premiered at the Humana New play Festival at the Actor's Theatre in Louisville, Virtual Meditation #1, and another, Full Spectrum, which premiered at the Ensemble Studio Theatre in New York City. In addition, Harger engages in ongoing research on using improvisational methods to create more believable virtual characters.</div>
 </div>
 
-### Evan Tahler
+### [Evan Tahler](http://www.etc.cmu.edu/blog/author/etahler/)
 ##### ETC Alumni, class of 2006
 ##### Director of Technology, TaskRabbit
 <div class="row">
@@ -48,7 +69,7 @@ COMING SOON
   </div>
 </div>
 
-### Joshua Jeffery
+### [Joshua Jeffery](http://www.etc.cmu.edu/blog/author/joshuajeffery/)
 ##### ETC Alumni, class of 2007
 ##### Manager of Digital Engagement, the Andy Warhol Museum
 <div class="row">
@@ -61,5 +82,4 @@ COMING SOON
 </div>
 </div>
 
-## Alumni Project Advisors
-COMING SOON
+---
