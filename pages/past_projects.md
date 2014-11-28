@@ -27,7 +27,11 @@ This is the first year for **The ETC Creative Good Fund**, so there are no past 
   <li>creating a new website for GTKW families to catalog and sort their memories</li>
 </ul>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/ahvS1wFRZew" frameborder="0" allowfullscreen></iframe>
+<div class="row">
+  <div class="span8 flex-video widescreen">
+    <iframe width="560" height="315" src="//www.youtube.com/embed/ahvS1wFRZew" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
 
 <p>Past ETC projects with Give Kids the World include:</p>
 

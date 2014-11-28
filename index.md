@@ -26,8 +26,8 @@ title: Home
 Many non-profit organizations - museums, libraries, zoos, arts and human service organizations - have a primary mission to enrich lives and communities.  Many of these organizations find it challenging to keep up with the fast-paced and ever-changing education and entertainment technology trends that help fulfill their mission. The skills and expertise that students acquire during their time at the ETC could be invaluable to these organizations if their budgets allowed, and students would love the chance to work with non-profits if they could afford it.  
 
 <div class="row">
-  <div class="span12" align="center">
-    <iframe width="840" height="473" src="//www.youtube.com/embed/fJr3Xcrrsms" frameborder="0" allowfullscreen></iframe>
+  <div class="span12 flex-video widescreen" align="center">
+    <iframe max-width="840" max-height="473" src="//www.youtube.com/embed/fJr3Xcrrsms" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 <br />
