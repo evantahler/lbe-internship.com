@@ -21,15 +21,15 @@ This project was launched in 2013
 
 <div class="row">
   <div class="span4">
-    <h3><a href="http://www.etc.cmu.edu/blog/author/rhe">Ruokan He</a></h3>
+    <h4><a href="http://www.etc.cmu.edu/blog/author/rhe">Ruokan He</a></h4>
     <img src="/images/people/Ruokan-He.jpg" />
   </div>
   <div class="span4">
-    <h3><a href="http://www.etc.cmu.edu/blog/author/vkotecha">Vivek Kotecha</a></h3>
+    <h4><a href="http://www.etc.cmu.edu/blog/author/vkotecha">Vivek Kotecha</a></h4>
     <img src="/images/people/Vivek-Kotecha.jpg" />
   </div>
   <div class="span4">
-    <h3><a href="http://www.gktw.org">Give Kids the World Village</a></h3>
+    <h4><a href="http://www.gktw.org">Give Kids the World Village</a></h4>
     <img src="/images/pillow_tree_2014.jpg" />
   </div>
 </div>

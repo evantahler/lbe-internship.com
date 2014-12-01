@@ -27,18 +27,19 @@ title: Home
 
 Many non-profit organizations - museums, libraries, zoos, arts and human service organizations - have a primary mission to enrich lives and communities.  Many of these organizations find it challenging to keep up with the fast-paced and ever-changing education and entertainment technology trends that help fulfill their mission. The skills and expertise that students acquire during their time at the ETC could be invaluable to these organizations if their budgets allowed, and students would love the chance to work with non-profits if they could afford it.  
 
+*In 2014, two ETC students embarked on a summer-long internship of "Creative Good" by providing their skills and expertise at Give Kids the World, a nonprofit "storybook" resort where children with life-threatening illness and their families area treated to weeklong, cost-free fantasy vacations.  The staff of GKTW express their gratitude to the ETC students, Vivek and Ruokan, who spent their summers working at for the organization.*
+
 <div class="row">
   <div class="span12 flex-video widescreen" align="center">
     <iframe max-width="840" max-height="473" src="//www.youtube.com/embed/fJr3Xcrrsms" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
-<br />
  
 The ETC is launching a new effort called the ETC Creative Good Fund.  The goal of The ETC Creative Good Fund is to allow these students to spend a summer working with an organization agreed upon by the student and the granting committee to complete a technology-focused education or entertainment project.
  
 We call on friends and alumni of the ETC to contribute to this new fund and support students and the non-profit organizations they want to help.
  
-Our goal is to endow this fund, which requires a $25,000 commitment which will unlock a $250,000 matching gift.  Should the fund not be fully endowed, gifts to this fund will be used to establish an expendable internship fund.
+Our goal is to endow this fund, which requires us to raise $25,000 which will unlock a $275,000 matching gift from a CMU alumni couple. Should the fund not be fully endowed, gifts to this fund will be used to establish an expendable internship fund.
 
 <div align="center" class="row">
 <div class="span6">
