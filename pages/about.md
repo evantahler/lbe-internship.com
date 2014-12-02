@@ -74,11 +74,10 @@ This project was launched in 2013
 ##### Manager of Digital Engagement, the Andy Warhol Museum
 <div class="row">
   <div class="span3"><img src="/images/people/josh.jpg" /></div>
-  <div class="span9"><p>Joshua Jeffery serves as the Manager of Digital Engagement for the Andy Warhol Museum, where he oversees strategy and implementation of the museum's presences on the web, mobile devices, social media, and through in-gallery interactives. As The Warhol is one of the four Carnegie Museums of Pittsburgh, he has also served various roles across the institute.</p>
 
-  <p>Since joining the Warhol in 2010, he has re-designed and launched warhol.org, designed and produced The Warhol: DIY POP and The Warhol: Art apps, greatly expanded the Museum's social media presence, and created various web and in-gallery interactive experiences including a newly-opened Screen Test Interactive.</p>
+  <div class="span9"><p>Joshua Jeffery serves as a producer for Experience Centers at Google, where he helps realize themed interactive installations for the brand around the world. Previous to this, Josh served as the Director of Digital Engagement at The Andy Warhol Museum in Pittsburgh, overseeing strategy, design, and implementation of the museum's presences on the web, mobile, social media, and through in-gallery installations. As part of the four Carnegie Museums of Pittsburgh, he has also served various roles across the institute's 3 other museums. Josh has presented at numerous industry conferences on interactive technology and design in the museum space and his work at The Warhol resulted in numerous accolades for the museum, including the 2014 Pennsylvania Governor's Award for Innovation.</p>
 
-  <p>Prior to The Warhol, Josh founded a technology startup in Pittsburgh with colleagues from Carnegie Mellon University, where he completed a masters degree in Entertainment Technology in 2009. Josh holds a B.F.A. in theatrical design, and has had numerous design internships including The Walt Disney Company and Thinkwell Group. Josh's passions lie in creating compelling, meaningful guest experiences enhanced by interactions with technology.</p>
+  <p>Prior to The Warhol, Josh founded a technology startup in Pittsburgh with colleagues from Carnegie Mellon University, where he completed a masters degree in Entertainment Technology in 2009. Josh holds a B.F.A. in theatrical design, and has had numerous design internships including The Walt Disney Company and Thinkwell Group. Josh's passions lie in creating compelling, meaningful guest experiences in the real world.</p>
 </div>
 </div>
 
