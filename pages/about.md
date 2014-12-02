@@ -71,7 +71,7 @@ This project was launched in 2013
 
 ### [Joshua Jeffery](http://www.etc.cmu.edu/blog/author/joshuajeffery/)
 ##### ETC Alumni, class of 2007
-##### Manager of Digital Engagement, the Andy Warhol Museum
+##### Producer for Experience Centers, Google
 <div class="row">
   <div class="span3"><img src="/images/people/josh.jpg" /></div>
 
