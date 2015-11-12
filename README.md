@@ -11,5 +11,6 @@ this is a static site hosted by [github pages](http://pages.github.com/).  We us
 - [install](http://gembundler.com/) bundler
 - install the gems this project needs with `bundle install`
 - run jekyll `jekyll server --watch` which will run this site locally on port 4000.
+- running the site will also generate all the static assets for the site in a `_site` folder within this project.
 
 To deploy this site, just push your changes to the `gh-pages` branch.
